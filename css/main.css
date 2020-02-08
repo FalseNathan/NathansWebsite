@@ -7,3 +7,11 @@ html, body {
 a:hover { 
     cursor: url('cursor.png'), auto
 }
+
+table, th, td {
+    border-collapse: collapse;
+    width: 750px;
+    height: 60px;
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+  }
